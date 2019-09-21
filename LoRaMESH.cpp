@@ -244,4 +244,3 @@ uint16_t ComputeCRC(uint8_t* data_in, uint16_t length)
   }
   return (crc_calc&0xFFFF);
 }
-

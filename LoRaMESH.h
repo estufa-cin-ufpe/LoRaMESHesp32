@@ -74,7 +74,7 @@ typedef enum
 /* ----- Public Functions Prototype ----- */
 
 /**
-  * @brief Initializes Commands interface and the SoftwareSerial object on gpio 16(Rx)/ gpio17(Tx) pins and Baudrate
+  * @brief Initializes Commands interface and Serial1 interface on gpio 16(Rx)/ gpio17(Tx) pins and Baudrate
 */
 void SerialCommandsInit(uint32_t baudRate);
 
