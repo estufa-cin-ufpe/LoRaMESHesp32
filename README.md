@@ -1,4 +1,4 @@
-# LoRaMESHesp32
+# LoRa MESH ESP32
 
 Biblioteca do módulo LoRaMESH da radioenge adaptada para ESP32.
 
